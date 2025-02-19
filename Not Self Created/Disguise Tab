@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20title=prompt(%22New%20title?%22);document.title=title%7D)();
