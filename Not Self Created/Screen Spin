@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.documentElement.style.transitionDuration=%2260s%22;document.documentElement.style.transitionTimingFunction=%22ease-in%22;document.documentElement.style.transform=%22rotate(360000deg)%22;%7D());
